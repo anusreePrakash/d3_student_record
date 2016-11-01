@@ -1,0 +1,10 @@
+.container{
+	border:1px solid green;
+}
+
+.bars{
+	height: 30px;
+	border-radius: 20px;
+	margin: 10px;
+	color: white;
+}
