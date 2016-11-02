@@ -1,10 +1,33 @@
 .container{
-	border:1px solid green;
+	border:1px;
+	margin-top: 30px;
+	margin-left: 30px
 }
 
 .bars{
-	height: 30px;
+	height: 25px;
 	border-radius: 20px;
 	margin: 10px;
 	color: white;
+}
+.button-container{
+	height: 20px;
+	margin-top: 30px;
+	margin-left: 30px;
+}
+.legend-container{
+	height: 20px;
+	margin-top: 30px;
+	margin-left: 30px;
+}
+.legend{
+	height: 25px;
+	width: 100px;
+	border-radius: 20px;
+	margin: 10px;
+	color: white;
+	text-align: center;
+	margin-left: 10px;
+	/*padding-top: 10px;*/
+	display: inline-block;
 }
